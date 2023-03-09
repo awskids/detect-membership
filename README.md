@@ -19,7 +19,7 @@ Use Cases
 - Alert on presence of non-member
 - Alert on uniform non-compliance
 - Blur faces of members in video
-
+![view](./videos/school-campus.gif)
 ![view](./images/confusionMatrix.png)
 ![view](./images/confidenceCurve.png)
 ![view](./images/frame.png)
